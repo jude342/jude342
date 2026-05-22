@@ -59,31 +59,56 @@ I specialize in:
 
 # 📂 Featured Projects
 
-## 🟪 'Kairos Organizer'
+🟪 Kairos Organizer
 
-A fullstack productivity and organization application designed to help ministries, teams, and organizations manage events, committees, planning, and responsibilities more efficiently.
+A fullstack church organization and productivity platform developed to help ministries, leaders, committees, and organizations within our local church manage events, schedules, responsibilities, and coordination more efficiently.
 
-This project became one of the biggest milestones in my development journey because it helped me experience real-world fullstack architecture, deployment, backend integration, and project structuring.
+Kairos Organizer became one of the biggest milestones in my software engineering journey, allowing me to experience real-world fullstack development, backend architecture, API integration, deployment workflows, database management, and production problem-solving.
 
-### Features
-- Event and task management
-- Committee organization
-- Progress tracking system
-- Responsive user interface
-- Fullstack architecture
+The project was designed not only as a solution for our church community, but also as a hands-on learning experience to strengthen my understanding of scalable application structure and real deployment environments.
 
-### Tech Used
-- React
-- Spring Boot
-- MySQL
-- REST APIs
-- Tailwind CSS
+🚀 Features
+Event and activity management
+Schedule and ministry coordination
+Committee and participant organization
+Progress tracking system
+Comment and interaction system
+Responsive mobile-friendly interface
+PWA (Progressive Web App) support
+Full frontend ↔ backend ↔ database integration
+🛠️ Tech Stack
+Java
+Spark Java
+Maven
+MySQL
+REST APIs
+JavaScript
+HTML
+CSS
+🌐 Deployment & Tools
+Render — Backend hosting
+Netlify — Frontend deployment
+Aiven — Cloud database hosting
+🎯 Purpose
 
-### Purpose
-Built as part of my personal learning challenge to improve my software engineering, system design, and fullstack development skills through real project experience.
+This project was built as part of my personal software engineering learning challenge and hackathon journey, with the goal of gaining practical experience in:
 
-## 🟦 'AnoUlam' Fullstack Application
-A problem-solving application built during my personal learning.
+Fullstack application development
+Backend and database integration
+API communication
+Deployment and cloud hosting
+Project architecture and organization
+Real-world debugging and optimization
+Building software solutions that solve actual community problems
+📌 Project Significance
+
+Kairos Organizer represents a major turning point in my development journey, marking my transition from learning programming concepts into building and deploying complete real-world applications used by actual users.
+
+## 🟦 "AnoUlam" — Filipino Ingredient-Based Dish Recommendation App
+
+AnoUlam is a fullstack mobile application developed during my personal learning journey. The app is designed to help Filipino families quickly decide what to cook by recommending Filipino dishes based on the ingredients currently available in their kitchen.
+
+Users simply enter the ingredients they have, and the application dynamically filters and recommends matching Filipino meals in real time.
 
 ### Features
 - Fullstack architecture
