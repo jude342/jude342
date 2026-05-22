@@ -162,7 +162,7 @@ Every project here represents progress — not perfection.
 
 Feel free to connect with me!
 
-- GitHub: jude342
+- GitHub: [jude342](https://github.com/jude342)
 - Portfolio: SOON!
 - LinkedIn: linkedin.com/in/garcia-jude-rey-c-garcia-a24ba137a
 
