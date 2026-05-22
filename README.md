@@ -1,6 +1,6 @@
-# 🚀 Jude's Developer Portfolio
+# 🚀 Jude | Fullstack Developer
 
-> Building real-world software solutions through passion, discipline, and continuous growth.
+> BSIT Student • Fullstack Developer • Building Real-World Solutions
 
 ---
 
@@ -59,7 +59,7 @@ I specialize in:
 
 # 📂 Featured Projects
 
-🟪 Kairos Organizer
+## 🟪 "Kairos Organizer"
 
 A fullstack church organization and productivity platform developed to help ministries, leaders, committees, and organizations within our local church manage events, schedules, responsibilities, and coordination more efficiently.
 
@@ -67,42 +67,46 @@ Kairos Organizer became one of the biggest milestones in my software engineering
 
 The project was designed not only as a solution for our church community, but also as a hands-on learning experience to strengthen my understanding of scalable application structure and real deployment environments.
 
-🚀 Features
-Event and activity management
-Schedule and ministry coordination
-Committee and participant organization
-Progress tracking system
-Comment and interaction system
-Responsive mobile-friendly interface
-PWA (Progressive Web App) support
-Full frontend ↔ backend ↔ database integration
-🛠️ Tech Stack
-Java
-Spark Java
-Maven
-MySQL
-REST APIs
-JavaScript
-HTML
-CSS
-🌐 Deployment & Tools
-Render — Backend hosting
-Netlify — Frontend deployment
-Aiven — Cloud database hosting
-🎯 Purpose
+### 🚀 Features
+- Event and activity management
+- Schedule and ministry coordination
+- Committee and participant organization
+- Progress tracking system
+- Comment and interaction system
+- Responsive mobile-friendly interface
+- PWA (Progressive Web App) support
+- Full frontend ↔ backend ↔ database integration
 
-This project was built as part of my personal software engineering learning challenge and hackathon journey, with the goal of gaining practical experience in:
+### 🛠️ Tech Stack
+- Java
+- Spark Java
+- Maven
+- MySQL
+- REST APIs
+- JavaScript
+- HTML
+- CSS
 
-Fullstack application development
-Backend and database integration
-API communication
-Deployment and cloud hosting
-Project architecture and organization
-Real-world debugging and optimization
-Building software solutions that solve actual community problems
-📌 Project Significance
+### 🌐 Deployment & Tools
+- Render — Backend hosting
+- Netlify — Frontend deployment
+- Aiven — Cloud database hosting
 
+### 🎯 Purpose
+This project was built as part of my personal software engineering learning challenge and development journey, with the goal of gaining practical experience in:
+
+- Fullstack application development
+- Backend and database integration
+- API communication
+- Deployment and cloud hosting
+- Project architecture and organization
+- Real-world debugging and optimization
+- Building software solutions that solve actual community problems
+
+### 📌 Project Significance
 Kairos Organizer represents a major turning point in my development journey, marking my transition from learning programming concepts into building and deploying complete real-world applications used by actual users.
+
+---
 
 ## 🟦 "AnoUlam" — Filipino Ingredient-Based Dish Recommendation App
 
@@ -110,14 +114,14 @@ AnoUlam is a fullstack mobile application developed during my personal learning 
 
 Users simply enter the ingredients they have, and the application dynamically filters and recommends matching Filipino meals in real time.
 
-### Features
+### 🚀 Features
 - Fullstack architecture
 - REST API integration
 - Authentication system
 - Responsive UI
 - Database management
 
-### Tech Used
+### 🛠️ Tech Used
 - React Native
 - Java
 - Spring Boot
@@ -126,9 +130,10 @@ Users simply enter the ingredients they have, and the application dynamically fi
 ---
 
 ## 🟨 MoveAD Startup Website
+
 A modern startup/business website created for my personal brand and future services.
 
-### Goals
+### 🎯 Goals
 - Professional business presence
 - Showcase services and projects
 - Future client acquisition
@@ -136,11 +141,24 @@ A modern startup/business website created for my personal brand and future servi
 ---
 
 ## 🟩 Developer Portfolio
+
 My professional portfolio website showcasing:
+
 - Projects
 - Skills
 - Experiences
 - Developer journey
+
+---
+
+# 🏆 Achievements & Milestones
+
+- Built and deployed fullstack applications
+- Experienced real-world backend/frontend integration
+- Developed mobile and web-based systems
+- Participated in competitive programming tryouts
+- Completed personal fullstack learning challenges
+- Published projects on GitHub
 
 ---
 
@@ -183,12 +201,14 @@ Every project here represents progress — not perfection.
 - Mobile Application Development
 - Software Engineering Best Practices
 
+---
+
 # 📬 Contact
 
 Feel free to connect with me!
 
 - GitHub: [jude342](https://github.com/jude342)
-- Portfolio: SOON!
+- Portfolio Website: Coming Soon
 - LinkedIn: linkedin.com/in/garcia-jude-rey-c-garcia-a24ba137a
 
 ---
