@@ -1,10 +1,10 @@
-# 🚀 Jude | Fullstack Developer
+# Jude | Fullstack Developer
 
 > BSIT Student • Fullstack Developer • Building Real-World Solutions
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Hi! I'm Jude, a passionate BSIT student and aspiring Fullstack Software Engineer from the Philippines 🇵🇭.
 
@@ -14,7 +14,7 @@ This repository represents one of the most important phases of my development jo
 
 ---
 
-# 🧠 Current Focus
+# Current Focus
 
 I specialize in:
 
@@ -27,9 +27,9 @@ I specialize in:
 
 ---
 
-# ⚙️ Tech Stack
+# Tech Stack
 
-## 🎨 Frontend
+## Frontend
 - HTML5
 - CSS3
 - JavaScript (ES6+)
@@ -37,17 +37,17 @@ I specialize in:
 - React Native
 - Tailwind CSS
 
-## ⚙️ Backend
+## Backend
 - Java
 - Spring Boot
 - REST APIs
 - JSON Communication
 - Maven
 
-## 🗄️ Database
+## Database
 - MySQL
 
-## 🛠️ Tools & Platforms
+## Tools & Platforms
 - Git & GitHub
 - VS Code
 - IntelliJ IDEA
@@ -57,7 +57,7 @@ I specialize in:
 
 ---
 
-# 📂 Featured Projects
+# Featured Projects
 
 ## 🟪 "Kairos Organizer"
 
@@ -67,7 +67,7 @@ Kairos Organizer became one of the biggest milestones in my software engineering
 
 The project was designed not only as a solution for our church community, but also as a hands-on learning experience to strengthen my understanding of scalable application structure and real deployment environments.
 
-### 🚀 Features
+### Features
 - Event and activity management
 - Schedule and ministry coordination
 - Committee and participant organization
@@ -77,7 +77,7 @@ The project was designed not only as a solution for our church community, but al
 - PWA (Progressive Web App) support
 - Full frontend ↔ backend ↔ database integration
 
-### 🛠️ Tech Stack
+### Tech Stack
 - Java
 - Spark Java
 - Maven
@@ -87,12 +87,12 @@ The project was designed not only as a solution for our church community, but al
 - HTML
 - CSS
 
-### 🌐 Deployment & Tools
+### Deployment & Tools
 - Render — Backend hosting
 - Netlify — Frontend deployment
 - Aiven — Cloud database hosting
 
-### 🎯 Purpose
+### Purpose
 This project was built as part of my personal software engineering learning challenge and development journey, with the goal of gaining practical experience in:
 
 - Fullstack application development
@@ -103,7 +103,7 @@ This project was built as part of my personal software engineering learning chal
 - Real-world debugging and optimization
 - Building software solutions that solve actual community problems
 
-### 📌 Project Significance
+### Project Significance
 Kairos Organizer represents a major turning point in my development journey, marking my transition from learning programming concepts into building and deploying complete real-world applications used by actual users.
 
 ---
@@ -114,14 +114,14 @@ AnoUlam is a fullstack mobile application developed during my personal learning 
 
 Users simply enter the ingredients they have, and the application dynamically filters and recommends matching Filipino meals in real time.
 
-### 🚀 Features
+### Features
 - Fullstack architecture
 - REST API integration
 - Authentication system
 - Responsive UI
 - Database management
 
-### 🛠️ Tech Used
+### Tech Used
 - React Native
 - Java
 - Spring Boot
@@ -133,7 +133,7 @@ Users simply enter the ingredients they have, and the application dynamically fi
 
 A modern startup/business website created for my personal brand and future services.
 
-### 🎯 Goals
+### Goals
 - Professional business presence
 - Showcase services and projects
 - Future client acquisition
@@ -151,7 +151,7 @@ My professional portfolio website showcasing:
 
 ---
 
-# 🏆 Achievements & Milestones
+# Achievements & Milestones
 
 - Built and deployed fullstack applications
 - Experienced real-world backend/frontend integration
@@ -162,7 +162,7 @@ My professional portfolio website showcasing:
 
 ---
 
-# 📈 Current Journey
+# Current Journey
 
 This repository is part of my long-term mission to:
 
@@ -174,18 +174,18 @@ This repository is part of my long-term mission to:
 
 ---
 
-# 🎯 Future Goals
+# Future Goals
 
-- 📱 Build production-level applications
-- 🌍 Work with international companies
-- 💼 Get a software engineering internship
-- 🚀 Grow MoveAD into a real startup
-- 🇯🇵 Travel and work internationally someday
-- ❤️ Build technology that creates positive impact
+- Build production-level applications
+- Work with international companies
+- Get a software engineering internship
+- Grow MoveAD into a real startup
+- Travel and work internationally someday
+- Build technology that creates positive impact
 
 ---
 
-# 🧠 What I Believe
+# What I Believe
 
 > "Growth is built through consistency, failure, discipline, and faith."
 
@@ -193,7 +193,7 @@ Every project here represents progress — not perfection.
 
 ---
 
-# 📚 Currently Learning
+# Currently Learning
 
 - Advanced Fullstack Development
 - System Design Fundamentals
@@ -203,7 +203,7 @@ Every project here represents progress — not perfection.
 
 ---
 
-# 📬 Contact
+# Contact
 
 Feel free to connect with me!
 
@@ -213,7 +213,7 @@ Feel free to connect with me!
 
 ---
 
-# ⭐ Final Note
+# Final Note
 
 Thank you for visiting my repository.
 
