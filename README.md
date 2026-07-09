@@ -209,7 +209,7 @@ Feel free to connect with me!
 
 - GitHub: [jude342](https://github.com/jude342)
 - Portfolio Website: [Jude Portfolio](https://judegarcia.netlify.app/)
-- LinkedIn: [Jude LinkedIn](linkedin.com/in/garcia-jude-rey-c-garcia-a24ba137a)
+- LinkedIn: [Jude LinkedIn](https://www.linkedin.com/in/jude-rey-c-garcia-a24ba137a/)
 
 ---
 
