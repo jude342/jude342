@@ -208,8 +208,8 @@ Every project here represents progress — not perfection.
 Feel free to connect with me!
 
 - GitHub: [jude342](https://github.com/jude342)
-- Portfolio Website: Coming Soon
-- LinkedIn: linkedin.com/in/garcia-jude-rey-c-garcia-a24ba137a
+- Portfolio Website: [Jude Portfolio](https://judegarcia.netlify.app/)
+- LinkedIn: [Jude LinkedIn](linkedin.com/in/garcia-jude-rey-c-garcia-a24ba137a)
 
 ---
 
